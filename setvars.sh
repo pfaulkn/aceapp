@@ -22,7 +22,9 @@ while read line; do
 
     # Export the variable
     export "$key"="$value"
- 
-    echo keyset = $key
-    echo valueset = $value
+    
 done < "$1"
+
+echo $name
+
+echo finished script
