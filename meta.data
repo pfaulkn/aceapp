@@ -1,0 +1,4 @@
+name=my-application
+namespace=cp4i
+cpu: 500m
+configurations: debug.server.conf
