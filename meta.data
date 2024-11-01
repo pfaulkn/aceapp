@@ -1,4 +1,4 @@
-name=my-application
+appName=my-application
 namespace=cp4i
 request-cpu=400m
 request-memory=368Mi
