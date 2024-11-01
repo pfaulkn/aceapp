@@ -1,4 +1,7 @@
 name=my-application
 namespace=cp4i
-cpu=400m
+request-cpu=400m
+request-memory=368Mi
+limit-cpu=400m
+limit-memory=368Mi
 configurations=debug.server.conf
